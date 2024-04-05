@@ -26,22 +26,27 @@
 const links = [
   {
     name: "Twitter",
-    url: "https://twitter.com/fayazara",
+    url: "https://twitter.com/ImKrisYan",
     icon: "mdi:twitter",
   },
   {
     name: "GitHub",
-    url: "https://github.com/fayazara",
+    url: "https://github.com/YanDao0313",
     icon: "mdi:github",
   },
   {
-    name: "Linkedin",
-    url: "https://www.linkedin.com/in/fayaz-aralikatti/",
-    icon: "mdi:linkedin",
+    name: "YouTube",
+    url: "https://www.youtube.com/channel/UCd6QCusZZ8urv2Owol_KEzA",
+    icon: "mdi:youtube",
+  },
+  {
+    name: "BiliBili",
+    url: "https://space.bilibili.com/1639079419",
+    icon: "mdi:television-classic",
   },
   {
     name: "Telegram",
-    url: "https://t.me/fayazara",
+    url: "https://t.me/krisyan",
     icon: "mdi:telegram",
   },
 ];

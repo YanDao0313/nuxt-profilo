@@ -49,11 +49,11 @@ const items = [
     icon: "solar:folder-with-files-outline",
   },
   {
-    name: "Articles",
-    path: "/articles",
+    name: "Blog",
+    path: "https://blog.krisyan.dev/",
     icon: "solar:document-add-outline",
   },
-  { name: "Lab", path: "/lab", icon: "heroicons:beaker" },
+  //{ name: "Lab", path: "/lab", icon: "heroicons:beaker" },
   {
     name: "What's in my bag?",
     path: "/whats-in-my-bag",
