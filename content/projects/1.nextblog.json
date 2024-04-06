@@ -1,0 +1,8 @@
+{
+  "name": "Next Blog",
+  "url": "https://blog.krisyan.dev/",
+  "description": "My personal blog, power by Next.js, Sanity, etc.",
+  "thumbnail": "/avatar-bw.png",
+  "status": "Active",
+  "opensource": true
+}
